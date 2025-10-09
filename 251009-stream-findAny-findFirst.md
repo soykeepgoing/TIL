@@ -42,3 +42,5 @@ https://devjjsjjj.tistory.com/entry/Java-Stream-findAny%EC%99%80-findFirst%EC%9D
 https://dev-coco.tistory.com/183#google_vignette
 
 https://www.baeldung.com/java-when-to-use-parallel-stream
+
+https://bepoz-study-diary.tistory.com/344
